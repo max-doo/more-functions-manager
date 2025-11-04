@@ -1,0 +1,5 @@
+{
+  "name": "More Functions Manager",
+  "description": "A page to manage and pin frequently used functions from a comprehensive list, organized by categories, to the main navigation menu of a SaaS application.",
+  "requestFramePermissions": []
+}
